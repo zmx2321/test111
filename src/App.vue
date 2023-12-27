@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import handwrittenSignature from '/packages/handwritten-signature-vue3/index,vue
+import handwrittenSignature from '/packages/handwritten-signature-vue3/index,vue'
 const save = (data) => {
   console. log('[ data ] >', data)
 }
